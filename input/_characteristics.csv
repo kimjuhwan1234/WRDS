@@ -1,0 +1,79 @@
+name,green,han,description
+absacc,1,1,absolute accruals
+acc,1,1,working capital accruals
+aeavol,1,1,abnormal earnings announcement volume
+age,1,1,years since first Compustat coverage
+agr,1,1,asset growth
+baspread,1,1,bid-ask spread
+beta,1,1,beta
+betasq,1,1,beta squared
+bm,1,1,book-to-market
+bm_ia,1,1,industry-adjusted book-to-market
+cash,1,1,cash holdings
+cashdebt,1,1,cash flow to debt
+cashpr,1,1,cash productivity
+cfp,1,1,cash flow to price ratio
+cfp_ia,1,1,industry-adjusted cash flow to price ratio
+chatoia,1,1,industry-adjusted change in asset turnover
+chcsho,1,1,change in shares outstanding
+chempia,1,1,industry-adjusted change in employee
+chinv,1,1,change in inventory
+chmom,1,1,change in 6-month momentum
+chpmia,1,1,industry-adjusted change in profit margin
+chtx,1,1,change in tax expense
+cinvest,1,1,corporate investment
+convind,1,1,convertible debt indicator
+currat,1,1,current ratio
+depr,1,1,depreciation / PP&E
+divi,1,1,dividend initiation
+divo,1,1,dividend omission
+dolvol,1,1,dollar trading volume
+dy,1,1,dividend to price
+ear,1,1,earnings announcement return
+egr,1,1,grown in common shareholders equity
+ep,1,1,earnings to price
+gma,1,1,gross profitability
+herf,1,1,industry sales concentration
+hire,1,1,employee growth rate
+idiovol,1,1,idiosyncratic return volatility
+ill,1,1,illiquidity
+indmom,1,1,industry momentum
+invest,1,1,capital expenditures and inventory
+ipo,1,1,new equity issuance
+lev,1,1,leverage
+lgr,1,1,growth in long-term debt
+maxret,1,1,maximum daily return
+ms,1,1,financial statement score
+mve,1,1,market value of equity
+mve_ia,1,1,industry-adjusted market value of equity
+nincr,1,1,number of earnings increases
+operprof,1,1,operating profitability
+pchcapx_ia,1,1,industry-adjusted change in capital expenditures
+pchcurrat,1,1,change in current ratio
+pchdepr,1,1,change in depreciation
+pchgm_pchsale,1,1,change in gross margin - change in sales
+pchquick,1,1,change in quick ratio
+pchsale_pchrect,1,1,change in sales - change in a/r
+pctacc,1,1,percent accruals
+pricedelay,1,1,price delay
+ps,1,1,financial statement score
+quick,1,1,quick ratio
+rd,1,1,research and development increase
+retvol,1,1,return volatility
+roaq,1,1,return on assets
+roeq,1,1,return on equity
+roic,1,1,return on invested capital
+rsup,1,1,revenue surprise
+salecash,1,1,sales to cash
+salerec,1,1,sales to receivables
+securedind,1,1,secured debt indicator
+sgr,1,1,sales growth
+sin,1,1,sin stocks
+sp,1,1,sales to price
+std_dolvol,1,1,volatility of dollar trading volume
+std_turn,1,1,volatility of share turnover
+sue,1,1,unexpected quarterly earnings
+tang,1,1,debt capacity/firm tangibility
+tb,1,1,tax income to book income
+turn,1,1,share turnover
+zerotrade,1,1,zero trading volume
